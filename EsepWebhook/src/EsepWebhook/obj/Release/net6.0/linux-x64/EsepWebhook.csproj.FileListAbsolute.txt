@@ -1,0 +1,17 @@
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.deps.json
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.runtimeconfig.json
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.dll
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.pdb
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.AssemblyInfo.cs
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.csproj.CopyComplete
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.dll
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/refint/EsepWebhook.dll
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.pdb
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/Users/christinelin/Documents/Classes/Enterprise/Event-Driven-Architecture/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/ref/EsepWebhook.dll
